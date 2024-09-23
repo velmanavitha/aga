@@ -1,0 +1,73 @@
+.cl1{
+    background-image: url(angular.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl2{
+    background-image: url(bootstrap.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+
+}
+.cl3{
+    background-image: url(ionic.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl4{
+    background-image: url(react.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl5{
+    background-image: url(design.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl6{
+    background-image: url(mysql.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl7{
+    background-image: url(nodejs.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl8{
+    background-image: url(python.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl9{
+    background-image: url(remix.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl10{
+    background-image: url(spring.boot.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl11{
+    background-image: url(mern.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
+.cl12{
+    background-image: url(mean.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed ;
+}
